@@ -14,3 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" **alt="Firefox" width="55" height="55"/>&nbsp;
 </div>
+
+# Project preview
+![Screenshot 2024-02-06 192917](https://github.com/Professor-codes/MTC-FOURTH-PROJECT/assets/126326997/064ab16a-c4ae-47ff-b485-57421e735588)
